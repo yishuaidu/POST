@@ -1,0 +1,3 @@
+init-tncp , R=10 , V=5.000000 , omegaT_50_1 
+NNCP: iterations = 407   difference=0.000010  time=2.571764
+if system_dependent('IsDebugMode')==1, dbquit; end

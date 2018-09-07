@@ -1,0 +1,33 @@
+
+                                                    < M A T L A B (R) >
+                                          Copyright 1984-2016 The MathWorks, Inc.
+                                           R2016b (9.1.0.441655) 64-bit (glnxa64)
+                                                     September 7, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+init-tncp , R=10 , V=1.000000 , omegaT_80_1 
+NNCP: iterations = 376   difference=0.000010  time=32.630169
+{License checkout failed.
+License Manager Error -87
+Checkout exceeds MAX specified in options file.
+Contact your License Administrator to review the Options File.
+
+Troubleshoot this issue by visiting:
+http://www.mathworks.com/support/lme/R2016b/87
+
+Diagnostic Information:
+Feature: Statistics_Toolbox
+License path: /homes/szhe/.matlab/R2016b_licenses:/p/p15/matlab-9.1/licenses/license.dat:/p/p15/matlab-9.1/licenses/network.lic
+Licensing error: -87,147.
+
+Error in no_20_faster_PTF_batch_zsd_vinc (line 84)
+                z = m+z.*normpdf(m,0,1)./normcdf(z.*m,0,1);
+
+
+Error in r1013510 (line 110)
+            [U_final,Var_final,AUC] =
+            no_20_faster_PTF_batch_zsd_vinc(Var_final,U_final,U,Var,all_data-1,cut_test_ind,cut_train_ind,R);
+} 

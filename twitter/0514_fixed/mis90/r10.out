@@ -1,0 +1,2316 @@
+
+                                                    < M A T L A B (R) >
+                                          Copyright 1984-2016 The MathWorks, Inc.
+                                           R2016b (9.1.0.441655) 64-bit (glnxa64)
+                                                     September 7, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+init-tncp , R=10 , V=1.000000 , omegaT_90_1 
+NNCP: iterations = 397   difference=0.000010  time=10.990035
+our: difference=0.000985  auc=0.777208
+i=1  dims=[20 60 60] 
+our: difference=0.000973  auc=0.778511
+i=2  dims=[20 70 70] 
+our: difference=0.000942  auc=0.758336
+i=3  dims=[20 80 80] 
+our: difference=0.000997  auc=0.793551
+i=4  dims=[20 90 90] 
+our: difference=0.000956  auc=0.788507
+i=5  dims=[20 100 100] 
+our: difference=0.000985  auc=0.780637
+i=6  dims=[20 110 110] 
+our: difference=0.000992  auc=0.787952
+i=7  dims=[20 120 120] 
+our: difference=0.000998  auc=0.723971
+i=8  dims=[20 130 130] 
+our: difference=0.000967  auc=0.783912
+i=9  dims=[20 140 140] 
+our: difference=0.000946  auc=0.754367
+i=10  dims=[20 150 150] 
+our: difference=0.000989  auc=0.748314
+i=11  dims=[20 160 160] 
+our: difference=0.000944  auc=0.733628
+i=12  dims=[20 170 170] 
+our: difference=0.000983  auc=0.794912
+i=13  dims=[20 180 180] 
+our: difference=0.000954  auc=0.805485
+i=14  dims=[20 190 190] 
+our: difference=0.000951  auc=0.736948
+i=15  dims=[20 200 200] 
+our: difference=0.000952  auc=0.752863
+i=16  dims=[20 210 210] 
+our: difference=0.000966  auc=0.754963
+i=17  dims=[20 220 220] 
+our: difference=0.000953  auc=0.766634
+i=18  dims=[20 230 230] 
+our: difference=0.000964  auc=0.804166
+i=19  dims=[20 240 240] 
+our: difference=0.000970  auc=0.780454
+i=20  dims=[20 250 250] 
+our: difference=0.000954  auc=0.742374
+i=21  dims=[20 260 260] 
+our: difference=0.000966  auc=0.734045
+i=22  dims=[20 270 270] 
+our: difference=0.000972  auc=0.783802
+i=23  dims=[20 280 280] 
+our: difference=0.000967  auc=0.779338
+i=24  dims=[20 290 290] 
+our: difference=0.000990  auc=0.764145
+i=25  dims=[20 300 300] 
+our: difference=0.000954  auc=0.768985
+i=26  dims=[20 310 310] 
+our: difference=0.000965  auc=0.732054
+i=27  dims=[20 320 320] 
+our: difference=0.000986  auc=0.788826
+i=28  dims=[20 330 330] 
+our: difference=0.000994  auc=0.818258
+i=29  dims=[20 340 340] 
+our: difference=0.000980  auc=0.808901
+i=30  dims=[20 350 350] 
+our: difference=0.000990  auc=0.710889
+i=31  dims=[20 360 360] 
+our: difference=0.000970  auc=0.787758
+i=32  dims=[20 370 370] 
+our: difference=0.000965  auc=0.748009
+i=33  dims=[20 380 380] 
+our: difference=0.000992  auc=0.773990
+i=34  dims=[20 390 390] 
+our: difference=0.000960  auc=0.773128
+i=35  dims=[20 400 400] 
+our: difference=0.000983  auc=0.794733
+i=36  dims=[20 410 410] 
+our: difference=0.000995  auc=0.740002
+i=37  dims=[20 420 420] 
+our: difference=0.000970  auc=0.787083
+i=38  dims=[20 430 430] 
+our: difference=0.000962  auc=0.754172
+i=39  dims=[20 440 440] 
+our: difference=0.000994  auc=0.751370
+i=40  dims=[20 450 450] 
+our: difference=0.000964  auc=0.733912
+i=41  dims=[20 460 460] 
+our: difference=0.000993  auc=0.774568
+i=42  dims=[20 470 470] 
+our: difference=0.000970  auc=0.780420
+i=43  dims=[20 480 480] 
+our: difference=0.000963  auc=0.800407
+i=44  dims=[20 490 490] 
+our: difference=0.000971  auc=0.793126
+i=45  dims=[20 500 500] 
+our: difference=0.000982  auc=0.759062
+
+ave_our =
+
+    0.7785
+    0.7684
+    0.7768
+    0.7797
+    0.7799
+    0.7812
+    0.7731
+    0.7744
+    0.7722
+    0.7698
+    0.7665
+    0.7689
+    0.7717
+    0.7692
+    0.7681
+    0.7673
+    0.7673
+    0.7693
+    0.7699
+    0.7685
+    0.7669
+    0.7677
+    0.7682
+    0.7680
+    0.7680
+    0.7666
+    0.7675
+    0.7693
+    0.7706
+    0.7687
+    0.7693
+    0.7686
+    0.7688
+    0.7689
+    0.7696
+    0.7688
+    0.7693
+    0.7689
+    0.7685
+    0.7676
+    0.7678
+    0.7681
+    0.7688
+    0.7694
+    0.7691
+
+ omegaT_90_2 
+NNCP: iterations = 397   difference=0.000010  time=24.667340
+our: difference=0.001000  auc=0.764079
+i=1  dims=[20 60 60] 
+our: difference=0.000978  auc=0.777108
+i=2  dims=[20 70 70] 
+our: difference=0.000984  auc=0.760048
+i=3  dims=[20 80 80] 
+our: difference=0.000945  auc=0.779449
+i=4  dims=[20 90 90] 
+our: difference=0.000926  auc=0.784680
+i=5  dims=[20 100 100] 
+our: difference=0.000966  auc=0.764744
+i=6  dims=[20 110 110] 
+our: difference=0.000954  auc=0.796870
+i=7  dims=[20 120 120] 
+our: difference=0.000954  auc=0.718218
+i=8  dims=[20 130 130] 
+our: difference=0.000933  auc=0.769441
+i=9  dims=[20 140 140] 
+our: difference=0.000939  auc=0.751382
+i=10  dims=[20 150 150] 
+our: difference=0.000945  auc=0.726905
+i=11  dims=[20 160 160] 
+our: difference=0.000957  auc=0.725932
+i=12  dims=[20 170 170] 
+our: difference=0.000961  auc=0.780892
+i=13  dims=[20 180 180] 
+our: difference=0.000958  auc=0.807174
+i=14  dims=[20 190 190] 
+our: difference=0.000963  auc=0.723541
+i=15  dims=[20 200 200] 
+our: difference=0.000995  auc=0.754269
+i=16  dims=[20 210 210] 
+our: difference=0.000974  auc=0.749804
+i=17  dims=[20 220 220] 
+our: difference=0.000989  auc=0.767214
+i=18  dims=[20 230 230] 
+our: difference=0.000980  auc=0.787037
+i=19  dims=[20 240 240] 
+our: difference=0.000994  auc=0.778028
+i=20  dims=[20 250 250] 
+our: difference=0.000964  auc=0.751342
+i=21  dims=[20 260 260] 
+our: difference=0.000995  auc=0.728807
+i=22  dims=[20 270 270] 
+our: difference=0.000968  auc=0.776777
+i=23  dims=[20 280 280] 
+our: difference=0.000956  auc=0.778941
+i=24  dims=[20 290 290] 
+our: difference=0.000988  auc=0.746380
+i=25  dims=[20 300 300] 
+our: difference=0.000957  auc=0.764044
+i=26  dims=[20 310 310] 
+our: difference=0.000980  auc=0.739437
+i=27  dims=[20 320 320] 
+our: difference=0.000959  auc=0.773273
+i=28  dims=[20 330 330] 
+our: difference=0.000984  auc=0.813300
+i=29  dims=[20 340 340] 
+our: difference=0.000978  auc=0.805400
+i=30  dims=[20 350 350] 
+our: difference=0.000956  auc=0.725943
+i=31  dims=[20 360 360] 
+our: difference=0.000992  auc=0.778334
+i=32  dims=[20 370 370] 
+our: difference=0.000984  auc=0.745096
+i=33  dims=[20 380 380] 
+our: difference=0.000961  auc=0.783038
+i=34  dims=[20 390 390] 
+our: difference=0.000987  auc=0.781256
+i=35  dims=[20 400 400] 
+our: difference=0.000960  auc=0.789630
+i=36  dims=[20 410 410] 
+our: difference=0.000963  auc=0.759407
+i=37  dims=[20 420 420] 
+our: difference=0.000983  auc=0.796397
+i=38  dims=[20 430 430] 
+our: difference=0.000970  auc=0.756068
+i=39  dims=[20 440 440] 
+our: difference=0.000975  auc=0.749268
+i=40  dims=[20 450 450] 
+our: difference=0.000990  auc=0.726484
+i=41  dims=[20 460 460] 
+our: difference=0.000960  auc=0.791450
+i=42  dims=[20 470 470] 
+our: difference=0.000996  auc=0.783376
+i=43  dims=[20 480 480] 
+our: difference=0.000962  auc=0.803316
+i=44  dims=[20 490 490] 
+our: difference=0.000961  auc=0.795710
+i=45  dims=[20 500 500] 
+our: difference=0.000979  auc=0.762718
+
+ave_our =
+
+    0.7771
+    0.7686
+    0.7722
+    0.7753
+    0.7732
+    0.7771
+    0.7687
+    0.7688
+    0.7669
+    0.7629
+    0.7595
+    0.7613
+    0.7648
+    0.7619
+    0.7614
+    0.7607
+    0.7610
+    0.7625
+    0.7633
+    0.7627
+    0.7611
+    0.7618
+    0.7625
+    0.7619
+    0.7620
+    0.7611
+    0.7615
+    0.7634
+    0.7648
+    0.7635
+    0.7640
+    0.7634
+    0.7640
+    0.7645
+    0.7652
+    0.7651
+    0.7659
+    0.7657
+    0.7653
+    0.7643
+    0.7649
+    0.7654
+    0.7663
+    0.7669
+    0.7668
+
+ omegaT_90_3 
+NNCP: iterations = 412   difference=0.000010  time=27.175875
+our: difference=0.000985  auc=0.765447
+i=1  dims=[20 60 60] 
+our: difference=0.000928  auc=0.795598
+i=2  dims=[20 70 70] 
+our: difference=0.000948  auc=0.768859
+i=3  dims=[20 80 80] 
+our: difference=0.000976  auc=0.764162
+i=4  dims=[20 90 90] 
+our: difference=0.000933  auc=0.773435
+i=5  dims=[20 100 100] 
+our: difference=0.000930  auc=0.784077
+i=6  dims=[20 110 110] 
+our: difference=0.000929  auc=0.794975
+i=7  dims=[20 120 120] 
+our: difference=0.000935  auc=0.728192
+i=8  dims=[20 130 130] 
+our: difference=0.000966  auc=0.789672
+i=9  dims=[20 140 140] 
+our: difference=0.000946  auc=0.759477
+i=10  dims=[20 150 150] 
+our: difference=0.000983  auc=0.752276
+i=11  dims=[20 160 160] 
+our: difference=0.000960  auc=0.721086
+i=12  dims=[20 170 170] 
+our: difference=0.000988  auc=0.773095
+i=13  dims=[20 180 180] 
+our: difference=0.000975  auc=0.793653
+i=14  dims=[20 190 190] 
+our: difference=0.000947  auc=0.721915
+i=15  dims=[20 200 200] 
+our: difference=0.000988  auc=0.749168
+i=16  dims=[20 210 210] 
+our: difference=0.000985  auc=0.756745
+i=17  dims=[20 220 220] 
+our: difference=0.000975  auc=0.773347
+i=18  dims=[20 230 230] 
+our: difference=0.000988  auc=0.797905
+i=19  dims=[20 240 240] 
+our: difference=0.000998  auc=0.769035
+i=20  dims=[20 250 250] 
+our: difference=0.000986  auc=0.746395
+i=21  dims=[20 260 260] 
+our: difference=0.000953  auc=0.720209
+i=22  dims=[20 270 270] 
+our: difference=0.000963  auc=0.777979
+i=23  dims=[20 280 280] 
+our: difference=0.000956  auc=0.795631
+i=24  dims=[20 290 290] 
+our: difference=0.000958  auc=0.757995
+i=25  dims=[20 300 300] 
+our: difference=0.000957  auc=0.764201
+i=26  dims=[20 310 310] 
+our: difference=0.000979  auc=0.744678
+i=27  dims=[20 320 320] 
+our: difference=0.000986  auc=0.795892
+i=28  dims=[20 330 330] 
+our: difference=0.000962  auc=0.821204
+i=29  dims=[20 340 340] 
+our: difference=0.000962  auc=0.808000
+i=30  dims=[20 350 350] 
+our: difference=0.000962  auc=0.710410
+i=31  dims=[20 360 360] 
+our: difference=0.000996  auc=0.791323
+i=32  dims=[20 370 370] 
+our: difference=0.000998  auc=0.758814
+i=33  dims=[20 380 380] 
+our: difference=0.000956  auc=0.776683
+i=34  dims=[20 390 390] 
+our: difference=0.000981  auc=0.778847
+i=35  dims=[20 400 400] 
+our: difference=0.000992  auc=0.782325
+i=36  dims=[20 410 410] 
+our: difference=0.000962  auc=0.746745
+i=37  dims=[20 420 420] 
+our: difference=0.000957  auc=0.787759
+i=38  dims=[20 430 430] 
+our: difference=0.000968  auc=0.757865
+i=39  dims=[20 440 440] 
+our: difference=0.000990  auc=0.747713
+i=40  dims=[20 450 450] 
+our: difference=0.000989  auc=0.726555
+i=41  dims=[20 460 460] 
+our: difference=0.000953  auc=0.777439
+i=42  dims=[20 470 470] 
+our: difference=0.000977  auc=0.783014
+i=43  dims=[20 480 480] 
+our: difference=0.000974  auc=0.799042
+i=44  dims=[20 490 490] 
+our: difference=0.000959  auc=0.793449
+i=45  dims=[20 500 500] 
+our: difference=0.000963  auc=0.755103
+
+ave_our =
+
+    0.7956
+    0.7822
+    0.7762
+    0.7755
+    0.7772
+    0.7802
+    0.7728
+    0.7749
+    0.7732
+    0.7711
+    0.7665
+    0.7671
+    0.7691
+    0.7657
+    0.7646
+    0.7641
+    0.7647
+    0.7665
+    0.7667
+    0.7657
+    0.7635
+    0.7641
+    0.7655
+    0.7652
+    0.7652
+    0.7644
+    0.7655
+    0.7675
+    0.7689
+    0.7670
+    0.7678
+    0.7675
+    0.7678
+    0.7681
+    0.7685
+    0.7679
+    0.7684
+    0.7681
+    0.7676
+    0.7666
+    0.7669
+    0.7672
+    0.7680
+    0.7686
+    0.7683
+
+ omegaT_90_4 
+NNCP: iterations = 411   difference=0.000010  time=23.827059
+our: difference=0.000985  auc=0.772248
+i=1  dims=[20 60 60] 
+our: difference=0.000983  auc=0.772798
+i=2  dims=[20 70 70] 
+our: difference=0.000999  auc=0.760782
+i=3  dims=[20 80 80] 
+our: difference=0.000960  auc=0.767665
+i=4  dims=[20 90 90] 
+our: difference=0.000950  auc=0.790590
+i=5  dims=[20 100 100] 
+our: difference=0.000978  auc=0.781535
+i=6  dims=[20 110 110] 
+our: difference=0.000935  auc=0.800529
+i=7  dims=[20 120 120] 
+our: difference=0.000929  auc=0.718976
+i=8  dims=[20 130 130] 
+our: difference=0.000962  auc=0.794336
+i=9  dims=[20 140 140] 
+our: difference=0.000954  auc=0.764435
+i=10  dims=[20 150 150] 
+our: difference=0.000953  auc=0.731423
+i=11  dims=[20 160 160] 
+our: difference=0.000990  auc=0.723521
+i=12  dims=[20 170 170] 
+our: difference=0.000959  auc=0.775597
+i=13  dims=[20 180 180] 
+our: difference=0.000975  auc=0.806777
+i=14  dims=[20 190 190] 
+our: difference=0.000959  auc=0.728760
+i=15  dims=[20 200 200] 
+our: difference=0.000942  auc=0.759885
+i=16  dims=[20 210 210] 
+our: difference=0.000994  auc=0.755580
+i=17  dims=[20 220 220] 
+our: difference=0.000982  auc=0.777548
+i=18  dims=[20 230 230] 
+our: difference=0.000948  auc=0.790119
+i=19  dims=[20 240 240] 
+our: difference=0.000980  auc=0.785109
+i=20  dims=[20 250 250] 
+our: difference=0.000974  auc=0.747116
+i=21  dims=[20 260 260] 
+our: difference=0.000945  auc=0.728306
+i=22  dims=[20 270 270] 
+our: difference=0.000956  auc=0.779357
+i=23  dims=[20 280 280] 
+our: difference=0.000971  auc=0.779681
+i=24  dims=[20 290 290] 
+our: difference=0.000991  auc=0.772868
+i=25  dims=[20 300 300] 
+our: difference=0.000952  auc=0.761199
+i=26  dims=[20 310 310] 
+our: difference=0.000962  auc=0.742431
+i=27  dims=[20 320 320] 
+our: difference=0.000989  auc=0.793633
+i=28  dims=[20 330 330] 
+our: difference=0.000965  auc=0.810146
+i=29  dims=[20 340 340] 
+our: difference=0.000960  auc=0.811191
+i=30  dims=[20 350 350] 
+our: difference=0.000998  auc=0.721965
+i=31  dims=[20 360 360] 
+our: difference=0.000960  auc=0.785644
+i=32  dims=[20 370 370] 
+our: difference=0.000997  auc=0.754529
+i=33  dims=[20 380 380] 
+our: difference=0.000991  auc=0.779918
+i=34  dims=[20 390 390] 
+our: difference=0.000956  auc=0.783088
+i=35  dims=[20 400 400] 
+our: difference=0.000963  auc=0.785546
+i=36  dims=[20 410 410] 
+our: difference=0.000965  auc=0.753732
+i=37  dims=[20 420 420] 
+our: difference=0.000983  auc=0.785111
+i=38  dims=[20 430 430] 
+our: difference=0.000974  auc=0.747691
+i=39  dims=[20 440 440] 
+our: difference=0.000971  auc=0.759687
+i=40  dims=[20 450 450] 
+our: difference=0.000957  auc=0.730106
+i=41  dims=[20 460 460] 
+our: difference=0.000956  auc=0.778638
+i=42  dims=[20 470 470] 
+our: difference=0.000975  auc=0.785131
+i=43  dims=[20 480 480] 
+our: difference=0.000956  auc=0.801461
+i=44  dims=[20 490 490] 
+our: difference=0.000965  auc=0.790183
+i=45  dims=[20 500 500] 
+our: difference=0.000992  auc=0.759243
+
+ave_our =
+
+    0.7728
+    0.7668
+    0.7671
+    0.7730
+    0.7747
+    0.7790
+    0.7704
+    0.7734
+    0.7724
+    0.7683
+    0.7642
+    0.7652
+    0.7684
+    0.7656
+    0.7652
+    0.7646
+    0.7653
+    0.7667
+    0.7677
+    0.7667
+    0.7648
+    0.7655
+    0.7661
+    0.7664
+    0.7662
+    0.7653
+    0.7663
+    0.7679
+    0.7694
+    0.7678
+    0.7684
+    0.7679
+    0.7683
+    0.7687
+    0.7692
+    0.7688
+    0.7692
+    0.7687
+    0.7684
+    0.7675
+    0.7677
+    0.7682
+    0.7689
+    0.7694
+    0.7692
+
+ omegaT_90_5 
+NNCP: iterations = 428   difference=0.000010  time=26.596722
+our: difference=0.000990  auc=0.774852
+i=1  dims=[20 60 60] 
+our: difference=0.000936  auc=0.772185
+i=2  dims=[20 70 70] 
+our: difference=0.000923  auc=0.746308
+i=3  dims=[20 80 80] 
+our: difference=0.000989  auc=0.779530
+i=4  dims=[20 90 90] 
+our: difference=0.000983  auc=0.787910
+i=5  dims=[20 100 100] 
+our: difference=0.000964  auc=0.779928
+i=6  dims=[20 110 110] 
+our: difference=0.000968  auc=0.803832
+i=7  dims=[20 120 120] 
+our: difference=0.000987  auc=0.732847
+i=8  dims=[20 130 130] 
+our: difference=0.000950  auc=0.769677
+i=9  dims=[20 140 140] 
+our: difference=0.000948  auc=0.751292
+i=10  dims=[20 150 150] 
+our: difference=0.000954  auc=0.755629
+i=11  dims=[20 160 160] 
+our: difference=0.000942  auc=0.730325
+i=12  dims=[20 170 170] 
+our: difference=0.000979  auc=0.773425
+i=13  dims=[20 180 180] 
+our: difference=0.000972  auc=0.814776
+i=14  dims=[20 190 190] 
+our: difference=0.000954  auc=0.738918
+i=15  dims=[20 200 200] 
+our: difference=0.000941  auc=0.757728
+i=16  dims=[20 210 210] 
+our: difference=0.000952  auc=0.756086
+i=17  dims=[20 220 220] 
+our: difference=0.000966  auc=0.783201
+i=18  dims=[20 230 230] 
+our: difference=0.000973  auc=0.803560
+i=19  dims=[20 240 240] 
+our: difference=0.000992  auc=0.799891
+i=20  dims=[20 250 250] 
+our: difference=0.000964  auc=0.750946
+i=21  dims=[20 260 260] 
+our: difference=0.000956  auc=0.721549
+i=22  dims=[20 270 270] 
+our: difference=0.000967  auc=0.789600
+i=23  dims=[20 280 280] 
+our: difference=0.000952  auc=0.792380
+i=24  dims=[20 290 290] 
+our: difference=0.000991  auc=0.756569
+i=25  dims=[20 300 300] 
+our: difference=0.000964  auc=0.773973
+i=26  dims=[20 310 310] 
+our: difference=0.000987  auc=0.744040
+i=27  dims=[20 320 320] 
+our: difference=0.000987  auc=0.787588
+i=28  dims=[20 330 330] 
+our: difference=0.000977  auc=0.819350
+i=29  dims=[20 340 340] 
+our: difference=0.000984  auc=0.811759
+i=30  dims=[20 350 350] 
+our: difference=0.000957  auc=0.718628
+i=31  dims=[20 360 360] 
+our: difference=0.000969  auc=0.795564
+i=32  dims=[20 370 370] 
+our: difference=0.000984  auc=0.746995
+i=33  dims=[20 380 380] 
+our: difference=0.000977  auc=0.784017
+i=34  dims=[20 390 390] 
+our: difference=0.000974  auc=0.773693
+i=35  dims=[20 400 400] 
+our: difference=0.000990  auc=0.786545
+i=36  dims=[20 410 410] 
+our: difference=0.000975  auc=0.746411
+i=37  dims=[20 420 420] 
+our: difference=0.000952  auc=0.792687
+i=38  dims=[20 430 430] 
+our: difference=0.000953  auc=0.766503
+i=39  dims=[20 440 440] 
+our: difference=0.000958  auc=0.753596
+i=40  dims=[20 450 450] 
+our: difference=0.000963  auc=0.743602
+i=41  dims=[20 460 460] 
+our: difference=0.000984  auc=0.783635
+i=42  dims=[20 470 470] 
+our: difference=0.000995  auc=0.789353
+i=43  dims=[20 480 480] 
+our: difference=0.000985  auc=0.806427
+i=44  dims=[20 490 490] 
+our: difference=0.000980  auc=0.798711
+i=45  dims=[20 500 500] 
+our: difference=0.000963  auc=0.761274
+
+ave_our =
+
+    0.7722
+    0.7592
+    0.7660
+    0.7715
+    0.7732
+    0.7783
+    0.7718
+    0.7715
+    0.7693
+    0.7679
+    0.7645
+    0.7652
+    0.7691
+    0.7669
+    0.7663
+    0.7656
+    0.7667
+    0.7687
+    0.7704
+    0.7694
+    0.7671
+    0.7681
+    0.7692
+    0.7687
+    0.7689
+    0.7679
+    0.7687
+    0.7705
+    0.7719
+    0.7701
+    0.7709
+    0.7702
+    0.7706
+    0.7707
+    0.7711
+    0.7705
+    0.7711
+    0.7709
+    0.7705
+    0.7698
+    0.7702
+    0.7706
+    0.7715
+    0.7721
+    0.7718
+
+init-tncp , R=10 , V=3.000000 , omegaT_90_1 
+NNCP: iterations = 405   difference=0.000010  time=21.325568
+our: difference=0.000998  auc=0.776858
+i=1  dims=[20 60 60] 
+our: difference=0.000873  auc=0.778518
+i=2  dims=[20 70 70] 
+our: difference=0.000859  auc=0.754464
+i=3  dims=[20 80 80] 
+our: difference=0.000945  auc=0.790511
+i=4  dims=[20 90 90] 
+our: difference=0.000987  auc=0.786746
+i=5  dims=[20 100 100] 
+our: difference=0.000995  auc=0.777542
+i=6  dims=[20 110 110] 
+our: difference=0.000983  auc=0.781571
+i=7  dims=[20 120 120] 
+our: difference=0.000983  auc=0.718604
+i=8  dims=[20 130 130] 
+our: difference=0.000964  auc=0.779802
+i=9  dims=[20 140 140] 
+our: difference=0.000983  auc=0.752234
+i=10  dims=[20 150 150] 
+our: difference=0.000993  auc=0.739763
+i=11  dims=[20 160 160] 
+our: difference=0.000922  auc=0.729186
+i=12  dims=[20 170 170] 
+our: difference=0.000976  auc=0.787838
+i=13  dims=[20 180 180] 
+our: difference=0.000949  auc=0.801181
+i=14  dims=[20 190 190] 
+our: difference=0.000984  auc=0.731155
+i=15  dims=[20 200 200] 
+our: difference=0.000981  auc=0.748862
+i=16  dims=[20 210 210] 
+our: difference=0.000954  auc=0.750754
+i=17  dims=[20 220 220] 
+our: difference=0.000944  auc=0.762012
+i=18  dims=[20 230 230] 
+our: difference=0.000965  auc=0.801766
+i=19  dims=[20 240 240] 
+our: difference=0.000944  auc=0.778734
+i=20  dims=[20 250 250] 
+our: difference=0.000990  auc=0.736822
+i=21  dims=[20 260 260] 
+our: difference=0.000964  auc=0.729076
+i=22  dims=[20 270 270] 
+our: difference=0.000945  auc=0.782539
+i=23  dims=[20 280 280] 
+our: difference=0.000962  auc=0.775715
+i=24  dims=[20 290 290] 
+our: difference=0.000963  auc=0.759775
+i=25  dims=[20 300 300] 
+our: difference=0.000949  auc=0.770390
+i=26  dims=[20 310 310] 
+our: difference=0.000973  auc=0.725738
+i=27  dims=[20 320 320] 
+our: difference=0.000988  auc=0.787557
+i=28  dims=[20 330 330] 
+our: difference=0.000969  auc=0.817407
+i=29  dims=[20 340 340] 
+our: difference=0.000971  auc=0.806460
+i=30  dims=[20 350 350] 
+our: difference=0.000987  auc=0.710387
+i=31  dims=[20 360 360] 
+our: difference=0.000988  auc=0.787073
+i=32  dims=[20 370 370] 
+our: difference=0.000970  auc=0.745731
+i=33  dims=[20 380 380] 
+our: difference=0.000980  auc=0.772465
+i=34  dims=[20 390 390] 
+our: difference=0.000989  auc=0.769565
+i=35  dims=[20 400 400] 
+our: difference=0.001000  auc=0.792817
+i=36  dims=[20 410 410] 
+our: difference=0.000957  auc=0.739367
+i=37  dims=[20 420 420] 
+our: difference=0.000978  auc=0.786359
+i=38  dims=[20 430 430] 
+our: difference=0.000983  auc=0.749337
+i=39  dims=[20 440 440] 
+our: difference=0.000977  auc=0.748870
+i=40  dims=[20 450 450] 
+our: difference=0.000958  auc=0.732356
+i=41  dims=[20 460 460] 
+our: difference=0.000996  auc=0.773357
+i=42  dims=[20 470 470] 
+our: difference=0.000957  auc=0.781061
+i=43  dims=[20 480 480] 
+our: difference=0.000983  auc=0.799474
+i=44  dims=[20 490 490] 
+our: difference=0.000997  auc=0.791347
+i=45  dims=[20 500 500] 
+our: difference=0.000975  auc=0.756541
+
+ave_our =
+
+    0.7785
+    0.7665
+    0.7745
+    0.7776
+    0.7776
+    0.7782
+    0.7697
+    0.7710
+    0.7689
+    0.7660
+    0.7626
+    0.7647
+    0.7675
+    0.7649
+    0.7639
+    0.7630
+    0.7630
+    0.7651
+    0.7659
+    0.7644
+    0.7627
+    0.7636
+    0.7641
+    0.7640
+    0.7642
+    0.7627
+    0.7637
+    0.7656
+    0.7670
+    0.7651
+    0.7658
+    0.7652
+    0.7654
+    0.7655
+    0.7663
+    0.7656
+    0.7661
+    0.7657
+    0.7652
+    0.7644
+    0.7646
+    0.7650
+    0.7658
+    0.7664
+    0.7662
+
+ omegaT_90_2 
+NNCP: iterations = 416   difference=0.000010  time=22.024804
+our: difference=0.000442  auc=0.765259
+i=1  dims=[20 60 60] 
+our: difference=0.000972  auc=0.781620
+i=2  dims=[20 70 70] 
+our: difference=0.000860  auc=0.756905
+i=3  dims=[20 80 80] 
+our: difference=0.000910  auc=0.771123
+i=4  dims=[20 90 90] 
+our: difference=0.000962  auc=0.783153
+i=5  dims=[20 100 100] 
+our: difference=0.000928  auc=0.754963
+i=6  dims=[20 110 110] 
+our: difference=0.000948  auc=0.785384
+i=7  dims=[20 120 120] 
+our: difference=0.000982  auc=0.707573
+i=8  dims=[20 130 130] 
+our: difference=0.000953  auc=0.756612
+i=9  dims=[20 140 140] 
+our: difference=0.000949  auc=0.746242
+i=10  dims=[20 150 150] 
+our: difference=0.000913  auc=0.715297
+i=11  dims=[20 160 160] 
+our: difference=0.000989  auc=0.716956
+i=12  dims=[20 170 170] 
+our: difference=0.000910  auc=0.769357
+i=13  dims=[20 180 180] 
+our: difference=0.000916  auc=0.799276
+i=14  dims=[20 190 190] 
+our: difference=0.000920  auc=0.715833
+i=15  dims=[20 200 200] 
+our: difference=0.000966  auc=0.747176
+i=16  dims=[20 210 210] 
+our: difference=0.000937  auc=0.743209
+i=17  dims=[20 220 220] 
+our: difference=0.000945  auc=0.758151
+i=18  dims=[20 230 230] 
+our: difference=0.000940  auc=0.779499
+i=19  dims=[20 240 240] 
+our: difference=0.000933  auc=0.769679
+i=20  dims=[20 250 250] 
+our: difference=0.000937  auc=0.743401
+i=21  dims=[20 260 260] 
+our: difference=0.000980  auc=0.721108
+i=22  dims=[20 270 270] 
+our: difference=0.000998  auc=0.772282
+i=23  dims=[20 280 280] 
+our: difference=0.000978  auc=0.770068
+i=24  dims=[20 290 290] 
+our: difference=0.000952  auc=0.737896
+i=25  dims=[20 300 300] 
+our: difference=0.000999  auc=0.764132
+i=26  dims=[20 310 310] 
+our: difference=0.000965  auc=0.730097
+i=27  dims=[20 320 320] 
+our: difference=0.000983  auc=0.765446
+i=28  dims=[20 330 330] 
+our: difference=0.000963  auc=0.809436
+i=29  dims=[20 340 340] 
+our: difference=0.000993  auc=0.798870
+i=30  dims=[20 350 350] 
+our: difference=0.000996  auc=0.721564
+i=31  dims=[20 360 360] 
+our: difference=0.000994  auc=0.775466
+i=32  dims=[20 370 370] 
+our: difference=0.000988  auc=0.738881
+i=33  dims=[20 380 380] 
+our: difference=0.000952  auc=0.774913
+i=34  dims=[20 390 390] 
+our: difference=0.000996  auc=0.776955
+i=35  dims=[20 400 400] 
+our: difference=0.000951  auc=0.785663
+i=36  dims=[20 410 410] 
+our: difference=0.000963  auc=0.757474
+i=37  dims=[20 420 420] 
+our: difference=0.000975  auc=0.795526
+i=38  dims=[20 430 430] 
+our: difference=0.000965  auc=0.750138
+i=39  dims=[20 440 440] 
+our: difference=0.000986  auc=0.743579
+i=40  dims=[20 450 450] 
+our: difference=0.000977  auc=0.722980
+i=41  dims=[20 460 460] 
+our: difference=0.000957  auc=0.787286
+i=42  dims=[20 470 470] 
+our: difference=0.000970  auc=0.782416
+i=43  dims=[20 480 480] 
+our: difference=0.000969  auc=0.801400
+i=44  dims=[20 490 490] 
+our: difference=0.000951  auc=0.793998
+i=45  dims=[20 500 500] 
+our: difference=0.000956  auc=0.758992
+
+ave_our =
+
+    0.7816
+    0.7693
+    0.7699
+    0.7732
+    0.7696
+    0.7722
+    0.7630
+    0.7622
+    0.7604
+    0.7559
+    0.7523
+    0.7538
+    0.7573
+    0.7543
+    0.7538
+    0.7532
+    0.7535
+    0.7549
+    0.7557
+    0.7551
+    0.7535
+    0.7543
+    0.7550
+    0.7543
+    0.7547
+    0.7537
+    0.7542
+    0.7561
+    0.7576
+    0.7564
+    0.7570
+    0.7565
+    0.7570
+    0.7576
+    0.7584
+    0.7584
+    0.7594
+    0.7591
+    0.7587
+    0.7578
+    0.7586
+    0.7591
+    0.7601
+    0.7609
+    0.7608
+
+ omegaT_90_3 
+NNCP: iterations = 415   difference=0.000010  time=22.302480
+our: difference=0.000987  auc=0.765173
+i=1  dims=[20 60 60] 
+our: difference=0.000891  auc=0.795577
+i=2  dims=[20 70 70] 
+our: difference=0.000946  auc=0.764360
+i=3  dims=[20 80 80] 
+our: difference=0.000994  auc=0.769477
+i=4  dims=[20 90 90] 
+our: difference=0.000950  auc=0.773254
+i=5  dims=[20 100 100] 
+our: difference=0.000894  auc=0.782763
+i=6  dims=[20 110 110] 
+our: difference=0.000910  auc=0.791804
+i=7  dims=[20 120 120] 
+our: difference=0.000933  auc=0.721459
+i=8  dims=[20 130 130] 
+our: difference=0.000942  auc=0.782299
+i=9  dims=[20 140 140] 
+our: difference=0.000918  auc=0.755743
+i=10  dims=[20 150 150] 
+our: difference=0.000979  auc=0.745678
+i=11  dims=[20 160 160] 
+our: difference=0.000972  auc=0.714404
+i=12  dims=[20 170 170] 
+our: difference=0.000980  auc=0.764495
+i=13  dims=[20 180 180] 
+our: difference=0.000942  auc=0.791779
+i=14  dims=[20 190 190] 
+our: difference=0.000995  auc=0.714589
+i=15  dims=[20 200 200] 
+our: difference=0.000983  auc=0.745401
+i=16  dims=[20 210 210] 
+our: difference=0.000963  auc=0.752296
+i=17  dims=[20 220 220] 
+our: difference=0.000994  auc=0.769106
+i=18  dims=[20 230 230] 
+our: difference=0.000975  auc=0.795292
+i=19  dims=[20 240 240] 
+our: difference=0.000978  auc=0.767105
+i=20  dims=[20 250 250] 
+our: difference=0.000968  auc=0.742189
+i=21  dims=[20 260 260] 
+our: difference=0.000976  auc=0.716478
+i=22  dims=[20 270 270] 
+our: difference=0.000967  auc=0.778146
+i=23  dims=[20 280 280] 
+our: difference=0.000983  auc=0.791529
+i=24  dims=[20 290 290] 
+our: difference=0.000961  auc=0.753260
+i=25  dims=[20 300 300] 
+our: difference=0.000980  auc=0.764679
+i=26  dims=[20 310 310] 
+our: difference=0.000959  auc=0.738886
+i=27  dims=[20 320 320] 
+our: difference=0.000975  auc=0.794377
+i=28  dims=[20 330 330] 
+our: difference=0.000975  auc=0.819447
+i=29  dims=[20 340 340] 
+our: difference=0.000955  auc=0.804708
+i=30  dims=[20 350 350] 
+our: difference=0.000952  auc=0.709639
+i=31  dims=[20 360 360] 
+our: difference=0.000964  auc=0.790258
+i=32  dims=[20 370 370] 
+our: difference=0.000961  auc=0.756616
+i=33  dims=[20 380 380] 
+our: difference=0.000996  auc=0.775028
+i=34  dims=[20 390 390] 
+our: difference=0.000988  auc=0.776061
+i=35  dims=[20 400 400] 
+our: difference=0.000997  auc=0.780099
+i=36  dims=[20 410 410] 
+our: difference=0.000962  auc=0.747565
+i=37  dims=[20 420 420] 
+our: difference=0.000964  auc=0.788100
+i=38  dims=[20 430 430] 
+our: difference=0.000971  auc=0.753604
+i=39  dims=[20 440 440] 
+our: difference=0.000957  auc=0.744231
+i=40  dims=[20 450 450] 
+our: difference=0.000955  auc=0.724349
+i=41  dims=[20 460 460] 
+our: difference=0.000987  auc=0.776323
+i=42  dims=[20 470 470] 
+our: difference=0.000992  auc=0.783698
+i=43  dims=[20 480 480] 
+our: difference=0.000984  auc=0.797273
+i=44  dims=[20 490 490] 
+our: difference=0.000980  auc=0.791968
+i=45  dims=[20 500 500] 
+our: difference=0.000959  auc=0.752748
+
+ave_our =
+
+    0.7956
+    0.7800
+    0.7765
+    0.7757
+    0.7771
+    0.7795
+    0.7712
+    0.7726
+    0.7707
+    0.7682
+    0.7633
+    0.7634
+    0.7656
+    0.7620
+    0.7609
+    0.7603
+    0.7609
+    0.7628
+    0.7630
+    0.7620
+    0.7598
+    0.7606
+    0.7620
+    0.7616
+    0.7617
+    0.7608
+    0.7621
+    0.7641
+    0.7655
+    0.7637
+    0.7645
+    0.7643
+    0.7646
+    0.7649
+    0.7654
+    0.7649
+    0.7655
+    0.7652
+    0.7647
+    0.7637
+    0.7640
+    0.7644
+    0.7652
+    0.7658
+    0.7655
+
+ omegaT_90_4 
+NNCP: iterations = 422   difference=0.000010  time=26.678357
+our: difference=0.000992  auc=0.771944
+i=1  dims=[20 60 60] 
+our: difference=0.000985  auc=0.773944
+i=2  dims=[20 70 70] 
+our: difference=0.000905  auc=0.757965
+i=3  dims=[20 80 80] 
+our: difference=0.000901  auc=0.769811
+i=4  dims=[20 90 90] 
+our: difference=0.000936  auc=0.788646
+i=5  dims=[20 100 100] 
+our: difference=0.000935  auc=0.776465
+i=6  dims=[20 110 110] 
+our: difference=0.000979  auc=0.795521
+i=7  dims=[20 120 120] 
+our: difference=0.000944  auc=0.712858
+i=8  dims=[20 130 130] 
+our: difference=0.000965  auc=0.789567
+i=9  dims=[20 140 140] 
+our: difference=0.000930  auc=0.762847
+i=10  dims=[20 150 150] 
+our: difference=0.000939  auc=0.724270
+i=11  dims=[20 160 160] 
+our: difference=0.000940  auc=0.719986
+i=12  dims=[20 170 170] 
+our: difference=0.000929  auc=0.768348
+i=13  dims=[20 180 180] 
+our: difference=0.000928  auc=0.804547
+i=14  dims=[20 190 190] 
+our: difference=0.000990  auc=0.723467
+i=15  dims=[20 200 200] 
+our: difference=0.000940  auc=0.756828
+i=16  dims=[20 210 210] 
+our: difference=0.000997  auc=0.752812
+i=17  dims=[20 220 220] 
+our: difference=0.000975  auc=0.773212
+i=18  dims=[20 230 230] 
+our: difference=0.000991  auc=0.788709
+i=19  dims=[20 240 240] 
+our: difference=0.000969  auc=0.782435
+i=20  dims=[20 250 250] 
+our: difference=0.000971  auc=0.744441
+i=21  dims=[20 260 260] 
+our: difference=0.000992  auc=0.723054
+i=22  dims=[20 270 270] 
+our: difference=0.000963  auc=0.778245
+i=23  dims=[20 280 280] 
+our: difference=0.000999  auc=0.775851
+i=24  dims=[20 290 290] 
+our: difference=0.000961  auc=0.767973
+i=25  dims=[20 300 300] 
+our: difference=0.000960  auc=0.762942
+i=26  dims=[20 310 310] 
+our: difference=0.000960  auc=0.735195
+i=27  dims=[20 320 320] 
+our: difference=0.000955  auc=0.790197
+i=28  dims=[20 330 330] 
+our: difference=0.000950  auc=0.808051
+i=29  dims=[20 340 340] 
+our: difference=0.000953  auc=0.809317
+i=30  dims=[20 350 350] 
+our: difference=0.000979  auc=0.720163
+i=31  dims=[20 360 360] 
+our: difference=0.000989  auc=0.782731
+i=32  dims=[20 370 370] 
+our: difference=0.000999  auc=0.752081
+i=33  dims=[20 380 380] 
+our: difference=0.000961  auc=0.778088
+i=34  dims=[20 390 390] 
+our: difference=0.000956  auc=0.779800
+i=35  dims=[20 400 400] 
+our: difference=0.000994  auc=0.783776
+i=36  dims=[20 410 410] 
+our: difference=0.000994  auc=0.753311
+i=37  dims=[20 420 420] 
+our: difference=0.000968  auc=0.783658
+i=38  dims=[20 430 430] 
+our: difference=0.000958  auc=0.745134
+i=39  dims=[20 440 440] 
+our: difference=0.000959  auc=0.757280
+i=40  dims=[20 450 450] 
+our: difference=0.000990  auc=0.728535
+i=41  dims=[20 460 460] 
+our: difference=0.000981  auc=0.778448
+i=42  dims=[20 470 470] 
+our: difference=0.000961  auc=0.785673
+i=43  dims=[20 480 480] 
+our: difference=0.000967  auc=0.799808
+i=44  dims=[20 490 490] 
+our: difference=0.000974  auc=0.789109
+i=45  dims=[20 500 500] 
+our: difference=0.000983  auc=0.756679
+
+ave_our =
+
+    0.7739
+    0.7660
+    0.7672
+    0.7726
+    0.7734
+    0.7771
+    0.7679
+    0.7706
+    0.7697
+    0.7652
+    0.7611
+    0.7617
+    0.7650
+    0.7620
+    0.7617
+    0.7611
+    0.7618
+    0.7633
+    0.7643
+    0.7633
+    0.7614
+    0.7622
+    0.7628
+    0.7630
+    0.7630
+    0.7619
+    0.7630
+    0.7646
+    0.7661
+    0.7646
+    0.7652
+    0.7648
+    0.7652
+    0.7656
+    0.7661
+    0.7658
+    0.7662
+    0.7657
+    0.7655
+    0.7646
+    0.7649
+    0.7654
+    0.7662
+    0.7667
+    0.7665
+
+ omegaT_90_5 
+NNCP: iterations = 420   difference=0.000010  time=25.307584
+our: difference=0.000986  auc=0.774210
+i=1  dims=[20 60 60] 
+our: difference=0.000994  auc=0.774520
+i=2  dims=[20 70 70] 
+our: difference=0.000910  auc=0.744015
+i=3  dims=[20 80 80] 
+our: difference=0.000948  auc=0.781529
+i=4  dims=[20 90 90] 
+our: difference=0.000999  auc=0.784032
+i=5  dims=[20 100 100] 
+our: difference=0.000954  auc=0.779828
+i=6  dims=[20 110 110] 
+our: difference=0.000963  auc=0.799006
+i=7  dims=[20 120 120] 
+our: difference=0.000978  auc=0.728623
+i=8  dims=[20 130 130] 
+our: difference=0.000935  auc=0.765742
+i=9  dims=[20 140 140] 
+our: difference=0.000960  auc=0.751053
+i=10  dims=[20 150 150] 
+our: difference=0.000968  auc=0.748831
+i=11  dims=[20 160 160] 
+our: difference=0.000945  auc=0.724653
+i=12  dims=[20 170 170] 
+our: difference=0.000965  auc=0.765598
+i=13  dims=[20 180 180] 
+our: difference=0.000999  auc=0.813180
+i=14  dims=[20 190 190] 
+our: difference=0.000928  auc=0.732323
+i=15  dims=[20 200 200] 
+our: difference=0.000988  auc=0.754748
+i=16  dims=[20 210 210] 
+our: difference=0.000985  auc=0.754251
+i=17  dims=[20 220 220] 
+our: difference=0.000940  auc=0.779266
+i=18  dims=[20 230 230] 
+our: difference=0.000974  auc=0.802396
+i=19  dims=[20 240 240] 
+our: difference=0.000942  auc=0.798077
+i=20  dims=[20 250 250] 
+our: difference=0.000946  auc=0.747422
+i=21  dims=[20 260 260] 
+our: difference=0.000969  auc=0.716957
+i=22  dims=[20 270 270] 
+our: difference=0.000969  auc=0.788783
+i=23  dims=[20 280 280] 
+our: difference=0.000991  auc=0.789106
+i=24  dims=[20 290 290] 
+our: difference=0.000997  auc=0.753409
+i=25  dims=[20 300 300] 
+our: difference=0.000979  auc=0.775245
+i=26  dims=[20 310 310] 
+our: difference=0.000977  auc=0.738457
+i=27  dims=[20 320 320] 
+our: difference=0.000968  auc=0.786130
+i=28  dims=[20 330 330] 
+our: difference=0.000964  auc=0.818927
+i=29  dims=[20 340 340] 
+our: difference=0.000998  auc=0.810376
+i=30  dims=[20 350 350] 
+our: difference=0.000958  auc=0.717809
+i=31  dims=[20 360 360] 
+our: difference=0.000985  auc=0.793977
+i=32  dims=[20 370 370] 
+our: difference=0.000949  auc=0.744999
+i=33  dims=[20 380 380] 
+our: difference=0.000970  auc=0.781783
+i=34  dims=[20 390 390] 
+our: difference=0.000964  auc=0.770880
+i=35  dims=[20 400 400] 
+our: difference=0.000993  auc=0.784665
+i=36  dims=[20 410 410] 
+our: difference=0.000979  auc=0.747238
+i=37  dims=[20 420 420] 
+our: difference=0.000952  auc=0.792528
+i=38  dims=[20 430 430] 
+our: difference=0.000957  auc=0.763405
+i=39  dims=[20 440 440] 
+our: difference=0.000961  auc=0.750034
+i=40  dims=[20 450 450] 
+our: difference=0.000976  auc=0.743369
+i=41  dims=[20 460 460] 
+our: difference=0.000975  auc=0.783064
+i=42  dims=[20 470 470] 
+our: difference=0.000997  auc=0.790046
+i=43  dims=[20 480 480] 
+our: difference=0.000994  auc=0.804876
+i=44  dims=[20 490 490] 
+our: difference=0.000990  auc=0.797461
+i=45  dims=[20 500 500] 
+our: difference=0.000997  auc=0.759433
+
+ave_our =
+
+    0.7745
+    0.7593
+    0.7667
+    0.7710
+    0.7728
+    0.7772
+    0.7702
+    0.7697
+    0.7676
+    0.7657
+    0.7620
+    0.7623
+    0.7662
+    0.7638
+    0.7632
+    0.7626
+    0.7636
+    0.7658
+    0.7675
+    0.7665
+    0.7641
+    0.7652
+    0.7663
+    0.7657
+    0.7661
+    0.7650
+    0.7658
+    0.7677
+    0.7692
+    0.7675
+    0.7683
+    0.7676
+    0.7680
+    0.7681
+    0.7686
+    0.7680
+    0.7687
+    0.7685
+    0.7680
+    0.7674
+    0.7678
+    0.7683
+    0.7692
+    0.7698
+    0.7696
+
+init-tncp , R=10 , V=5.000000 , omegaT_90_1 
+NNCP: iterations = 439   difference=0.000010  time=27.790878
+our: difference=0.000994  auc=0.776694
+i=1  dims=[20 60 60] 
+our: difference=0.000888  auc=0.776550
+i=2  dims=[20 70 70] 
+our: difference=0.000964  auc=0.748548
+i=3  dims=[20 80 80] 
+our: difference=0.000878  auc=0.784215
+i=4  dims=[20 90 90] 
+our: difference=0.000994  auc=0.781538
+i=5  dims=[20 100 100] 
+our: difference=0.000929  auc=0.770294
+i=6  dims=[20 110 110] 
+our: difference=0.000889  auc=0.773931
+i=7  dims=[20 120 120] 
+our: difference=0.000942  auc=0.711326
+i=8  dims=[20 130 130] 
+our: difference=0.000921  auc=0.772463
+i=9  dims=[20 140 140] 
+our: difference=0.000976  auc=0.747612
+i=10  dims=[20 150 150] 
+our: difference=0.000971  auc=0.730573
+i=11  dims=[20 160 160] 
+our: difference=0.000918  auc=0.722026
+i=12  dims=[20 170 170] 
+our: difference=0.000986  auc=0.778948
+i=13  dims=[20 180 180] 
+our: difference=0.000978  auc=0.795015
+i=14  dims=[20 190 190] 
+our: difference=0.000914  auc=0.724569
+i=15  dims=[20 200 200] 
+our: difference=0.000926  auc=0.743362
+i=16  dims=[20 210 210] 
+our: difference=0.000976  auc=0.745011
+i=17  dims=[20 220 220] 
+our: difference=0.000925  auc=0.756403
+i=18  dims=[20 230 230] 
+our: difference=0.000943  auc=0.797349
+i=19  dims=[20 240 240] 
+our: difference=0.000940  auc=0.774999
+i=20  dims=[20 250 250] 
+our: difference=0.000921  auc=0.730438
+i=21  dims=[20 260 260] 
+our: difference=0.000981  auc=0.722950
+i=22  dims=[20 270 270] 
+our: difference=0.000957  auc=0.779003
+i=23  dims=[20 280 280] 
+our: difference=0.000995  auc=0.770830
+i=24  dims=[20 290 290] 
+our: difference=0.000937  auc=0.754605
+i=25  dims=[20 300 300] 
+our: difference=0.000990  auc=0.769116
+i=26  dims=[20 310 310] 
+our: difference=0.000963  auc=0.719256
+i=27  dims=[20 320 320] 
+our: difference=0.000988  auc=0.784252
+i=28  dims=[20 330 330] 
+our: difference=0.000971  auc=0.814294
+i=29  dims=[20 340 340] 
+our: difference=0.000967  auc=0.802763
+i=30  dims=[20 350 350] 
+our: difference=0.000945  auc=0.707998
+i=31  dims=[20 360 360] 
+our: difference=0.000950  auc=0.784365
+i=32  dims=[20 370 370] 
+our: difference=0.000995  auc=0.741998
+i=33  dims=[20 380 380] 
+our: difference=0.000997  auc=0.769653
+i=34  dims=[20 390 390] 
+our: difference=0.000976  auc=0.764999
+i=35  dims=[20 400 400] 
+our: difference=0.000983  auc=0.789470
+i=36  dims=[20 410 410] 
+our: difference=0.000990  auc=0.737447
+i=37  dims=[20 420 420] 
+our: difference=0.000984  auc=0.784135
+i=38  dims=[20 430 430] 
+our: difference=0.000981  auc=0.744598
+i=39  dims=[20 440 440] 
+our: difference=0.000975  auc=0.745111
+i=40  dims=[20 450 450] 
+our: difference=0.000963  auc=0.729047
+i=41  dims=[20 460 460] 
+our: difference=0.000959  auc=0.770629
+i=42  dims=[20 470 470] 
+our: difference=0.000974  auc=0.779435
+i=43  dims=[20 480 480] 
+our: difference=0.000956  auc=0.796917
+i=44  dims=[20 490 490] 
+our: difference=0.000980  auc=0.788506
+i=45  dims=[20 500 500] 
+our: difference=0.000962  auc=0.752764
+
+ave_our =
+
+    0.7766
+    0.7625
+    0.7698
+    0.7727
+    0.7722
+    0.7725
+    0.7638
+    0.7649
+    0.7629
+    0.7597
+    0.7563
+    0.7582
+    0.7610
+    0.7584
+    0.7574
+    0.7566
+    0.7566
+    0.7589
+    0.7597
+    0.7583
+    0.7566
+    0.7576
+    0.7582
+    0.7580
+    0.7585
+    0.7570
+    0.7580
+    0.7600
+    0.7615
+    0.7597
+    0.7605
+    0.7599
+    0.7602
+    0.7603
+    0.7612
+    0.7605
+    0.7611
+    0.7607
+    0.7603
+    0.7595
+    0.7598
+    0.7603
+    0.7611
+    0.7617
+    0.7615
+
+ omegaT_90_2 
+NNCP: iterations = 417   difference=0.000010  time=22.681121
+our: difference=0.000748  auc=0.765856
+i=1  dims=[20 60 60] 
+our: difference=0.000832  auc=0.776834
+i=2  dims=[20 70 70] 
+our: difference=0.000922  auc=0.753174
+i=3  dims=[20 80 80] 
+our: difference=0.000879  auc=0.774738
+i=4  dims=[20 90 90] 
+our: difference=0.000934  auc=0.776504
+i=5  dims=[20 100 100] 
+our: difference=0.000920  auc=0.758493
+i=6  dims=[20 110 110] 
+our: difference=0.000946  auc=0.786149
+i=7  dims=[20 120 120] 
+our: difference=0.000984  auc=0.705517
+i=8  dims=[20 130 130] 
+our: difference=0.000903  auc=0.754666
+i=9  dims=[20 140 140] 
+our: difference=0.000918  auc=0.746506
+i=10  dims=[20 150 150] 
+our: difference=0.000903  auc=0.710777
+i=11  dims=[20 160 160] 
+our: difference=0.000960  auc=0.716907
+i=12  dims=[20 170 170] 
+our: difference=0.000983  auc=0.764377
+i=13  dims=[20 180 180] 
+our: difference=0.000983  auc=0.797765
+i=14  dims=[20 190 190] 
+our: difference=0.000980  auc=0.714323
+i=15  dims=[20 200 200] 
+our: difference=0.000945  auc=0.744479
+i=16  dims=[20 210 210] 
+our: difference=0.000990  auc=0.743896
+i=17  dims=[20 220 220] 
+our: difference=0.000917  auc=0.755431
+i=18  dims=[20 230 230] 
+our: difference=0.000990  auc=0.780044
+i=19  dims=[20 240 240] 
+our: difference=0.000998  auc=0.767626
+i=20  dims=[20 250 250] 
+our: difference=0.000989  auc=0.745113
+i=21  dims=[20 260 260] 
+our: difference=0.000954  auc=0.719326
+i=22  dims=[20 270 270] 
+our: difference=0.000976  auc=0.773698
+i=23  dims=[20 280 280] 
+our: difference=0.000948  auc=0.769341
+i=24  dims=[20 290 290] 
+our: difference=0.000936  auc=0.738454
+i=25  dims=[20 300 300] 
+our: difference=0.000981  auc=0.766385
+i=26  dims=[20 310 310] 
+our: difference=0.000944  auc=0.727061
+i=27  dims=[20 320 320] 
+our: difference=0.000967  auc=0.769535
+i=28  dims=[20 330 330] 
+our: difference=0.000946  auc=0.811947
+i=29  dims=[20 340 340] 
+our: difference=0.000971  auc=0.798139
+i=30  dims=[20 350 350] 
+our: difference=0.000972  auc=0.722298
+i=31  dims=[20 360 360] 
+our: difference=0.000971  auc=0.774963
+i=32  dims=[20 370 370] 
+our: difference=0.000969  auc=0.737861
+i=33  dims=[20 380 380] 
+our: difference=0.000995  auc=0.776375
+i=34  dims=[20 390 390] 
+our: difference=0.000976  auc=0.775248
+i=35  dims=[20 400 400] 
+our: difference=0.000987  auc=0.784126
+i=36  dims=[20 410 410] 
+our: difference=0.000946  auc=0.758016
+i=37  dims=[20 420 420] 
+our: difference=0.000950  auc=0.793974
+i=38  dims=[20 430 430] 
+our: difference=0.000998  auc=0.747749
+i=39  dims=[20 440 440] 
+our: difference=0.000968  auc=0.741918
+i=40  dims=[20 450 450] 
+our: difference=0.000952  auc=0.723114
+i=41  dims=[20 460 460] 
+our: difference=0.000993  auc=0.787641
+i=42  dims=[20 470 470] 
+our: difference=0.001000  auc=0.783779
+i=43  dims=[20 480 480] 
+our: difference=0.000950  auc=0.801959
+i=44  dims=[20 490 490] 
+our: difference=0.000988  auc=0.793357
+i=45  dims=[20 500 500] 
+our: difference=0.000987  auc=0.758163
+
+ave_our =
+
+    0.7768
+    0.7650
+    0.7682
+    0.7703
+    0.7679
+    0.7710
+    0.7616
+    0.7608
+    0.7592
+    0.7543
+    0.7509
+    0.7521
+    0.7556
+    0.7526
+    0.7521
+    0.7516
+    0.7518
+    0.7534
+    0.7541
+    0.7537
+    0.7520
+    0.7530
+    0.7537
+    0.7531
+    0.7536
+    0.7526
+    0.7532
+    0.7553
+    0.7568
+    0.7557
+    0.7563
+    0.7557
+    0.7563
+    0.7569
+    0.7577
+    0.7577
+    0.7587
+    0.7584
+    0.7579
+    0.7571
+    0.7578
+    0.7584
+    0.7594
+    0.7602
+    0.7602
+
+ omegaT_90_3 
+NNCP: iterations = 412   difference=0.000010  time=30.413024
+our: difference=0.000996  auc=0.765104
+i=1  dims=[20 60 60] 
+our: difference=0.000855  auc=0.792977
+i=2  dims=[20 70 70] 
+our: difference=0.000861  auc=0.757983
+i=3  dims=[20 80 80] 
+our: difference=0.000940  auc=0.766533
+i=4  dims=[20 90 90] 
+our: difference=0.000919  auc=0.767703
+i=5  dims=[20 100 100] 
+our: difference=0.000941  auc=0.775948
+i=6  dims=[20 110 110] 
+our: difference=0.000930  auc=0.783532
+i=7  dims=[20 120 120] 
+our: difference=0.000983  auc=0.711883
+i=8  dims=[20 130 130] 
+our: difference=0.000937  auc=0.772136
+i=9  dims=[20 140 140] 
+our: difference=0.000904  auc=0.749668
+i=10  dims=[20 150 150] 
+our: difference=0.000958  auc=0.736557
+i=11  dims=[20 160 160] 
+our: difference=0.000971  auc=0.705976
+i=12  dims=[20 170 170] 
+our: difference=0.000915  auc=0.753831
+i=13  dims=[20 180 180] 
+our: difference=0.000923  auc=0.787138
+i=14  dims=[20 190 190] 
+our: difference=0.000995  auc=0.707008
+i=15  dims=[20 200 200] 
+our: difference=0.000940  auc=0.739836
+i=16  dims=[20 210 210] 
+our: difference=0.000931  auc=0.746485
+i=17  dims=[20 220 220] 
+our: difference=0.000981  auc=0.763342
+i=18  dims=[20 230 230] 
+our: difference=0.000956  auc=0.790309
+i=19  dims=[20 240 240] 
+our: difference=0.000959  auc=0.763122
+i=20  dims=[20 250 250] 
+our: difference=0.000972  auc=0.736527
+i=21  dims=[20 260 260] 
+our: difference=0.000987  auc=0.710830
+i=22  dims=[20 270 270] 
+our: difference=0.000964  auc=0.775537
+i=23  dims=[20 280 280] 
+our: difference=0.000944  auc=0.786100
+i=24  dims=[20 290 290] 
+our: difference=0.000983  auc=0.747865
+i=25  dims=[20 300 300] 
+our: difference=0.000947  auc=0.762995
+i=26  dims=[20 310 310] 
+our: difference=0.000952  auc=0.732575
+i=27  dims=[20 320 320] 
+our: difference=0.000966  auc=0.790674
+i=28  dims=[20 330 330] 
+our: difference=0.000983  auc=0.815861
+i=29  dims=[20 340 340] 
+our: difference=0.000949  auc=0.799818
+i=30  dims=[20 350 350] 
+our: difference=0.000963  auc=0.706852
+i=31  dims=[20 360 360] 
+our: difference=0.000976  auc=0.786966
+i=32  dims=[20 370 370] 
+our: difference=0.000978  auc=0.752699
+i=33  dims=[20 380 380] 
+our: difference=0.000965  auc=0.772118
+i=34  dims=[20 390 390] 
+our: difference=0.000965  auc=0.771913
+i=35  dims=[20 400 400] 
+our: difference=0.000955  auc=0.776594
+i=36  dims=[20 410 410] 
+our: difference=0.000998  auc=0.746145
+i=37  dims=[20 420 420] 
+our: difference=0.000969  auc=0.785993
+i=38  dims=[20 430 430] 
+our: difference=0.000976  auc=0.748764
+i=39  dims=[20 440 440] 
+our: difference=0.000948  auc=0.739813
+i=40  dims=[20 450 450] 
+our: difference=0.000974  auc=0.720473
+i=41  dims=[20 460 460] 
+our: difference=0.000992  auc=0.773360
+i=42  dims=[20 470 470] 
+our: difference=0.000963  auc=0.781544
+i=43  dims=[20 480 480] 
+our: difference=0.000999  auc=0.793980
+i=44  dims=[20 490 490] 
+our: difference=0.000962  auc=0.789212
+i=45  dims=[20 500 500] 
+our: difference=0.000991  auc=0.748774
+
+ave_our =
+
+    0.7930
+    0.7755
+    0.7725
+    0.7713
+    0.7722
+    0.7741
+    0.7652
+    0.7661
+    0.7643
+    0.7615
+    0.7564
+    0.7562
+    0.7586
+    0.7549
+    0.7539
+    0.7534
+    0.7540
+    0.7560
+    0.7564
+    0.7554
+    0.7533
+    0.7543
+    0.7557
+    0.7554
+    0.7557
+    0.7548
+    0.7561
+    0.7582
+    0.7597
+    0.7579
+    0.7589
+    0.7587
+    0.7591
+    0.7594
+    0.7599
+    0.7596
+    0.7603
+    0.7600
+    0.7595
+    0.7585
+    0.7588
+    0.7594
+    0.7602
+    0.7608
+    0.7606
+
+ omegaT_90_4 
+NNCP: iterations = 424   difference=0.000010  time=28.507582
+our: difference=0.000999  auc=0.771849
+i=1  dims=[20 60 60] 
+our: difference=0.000847  auc=0.772654
+i=2  dims=[20 70 70] 
+our: difference=0.000856  auc=0.752622
+i=3  dims=[20 80 80] 
+our: difference=0.000974  auc=0.766382
+i=4  dims=[20 90 90] 
+our: difference=0.000900  auc=0.782333
+i=5  dims=[20 100 100] 
+our: difference=0.000948  auc=0.768433
+i=6  dims=[20 110 110] 
+our: difference=0.000917  auc=0.787983
+i=7  dims=[20 120 120] 
+our: difference=0.000885  auc=0.704547
+i=8  dims=[20 130 130] 
+our: difference=0.000934  auc=0.781945
+i=9  dims=[20 140 140] 
+our: difference=0.000974  auc=0.758322
+i=10  dims=[20 150 150] 
+our: difference=0.001000  auc=0.716362
+i=11  dims=[20 160 160] 
+our: difference=0.000993  auc=0.714858
+i=12  dims=[20 170 170] 
+our: difference=0.000937  auc=0.758990
+i=13  dims=[20 180 180] 
+our: difference=0.000945  auc=0.799409
+i=14  dims=[20 190 190] 
+our: difference=0.000997  auc=0.716313
+i=15  dims=[20 200 200] 
+our: difference=0.000960  auc=0.751323
+i=16  dims=[20 210 210] 
+our: difference=0.000963  auc=0.748847
+i=17  dims=[20 220 220] 
+our: difference=0.000950  auc=0.767641
+i=18  dims=[20 230 230] 
+our: difference=0.000975  auc=0.784964
+i=19  dims=[20 240 240] 
+our: difference=0.000958  auc=0.777957
+i=20  dims=[20 250 250] 
+our: difference=0.000980  auc=0.740094
+i=21  dims=[20 260 260] 
+our: difference=0.000943  auc=0.716953
+i=22  dims=[20 270 270] 
+our: difference=0.000962  auc=0.775289
+i=23  dims=[20 280 280] 
+our: difference=0.000968  auc=0.770741
+i=24  dims=[20 290 290] 
+our: difference=0.000941  auc=0.762152
+i=25  dims=[20 300 300] 
+our: difference=0.000949  auc=0.761722
+i=26  dims=[20 310 310] 
+our: difference=0.000974  auc=0.728027
+i=27  dims=[20 320 320] 
+our: difference=0.000959  auc=0.786027
+i=28  dims=[20 330 330] 
+our: difference=0.000952  auc=0.804536
+i=29  dims=[20 340 340] 
+our: difference=0.000944  auc=0.805576
+i=30  dims=[20 350 350] 
+our: difference=0.000945  auc=0.716883
+i=31  dims=[20 360 360] 
+our: difference=0.000958  auc=0.779046
+i=32  dims=[20 370 370] 
+our: difference=0.000980  auc=0.747832
+i=33  dims=[20 380 380] 
+our: difference=0.000951  auc=0.775170
+i=34  dims=[20 390 390] 
+our: difference=0.000978  auc=0.775431
+i=35  dims=[20 400 400] 
+our: difference=0.000968  auc=0.780442
+i=36  dims=[20 410 410] 
+our: difference=0.000986  auc=0.751397
+i=37  dims=[20 420 420] 
+our: difference=0.000969  auc=0.780728
+i=38  dims=[20 430 430] 
+our: difference=0.000953  auc=0.741748
+i=39  dims=[20 440 440] 
+our: difference=0.000964  auc=0.753548
+i=40  dims=[20 450 450] 
+our: difference=0.000968  auc=0.725746
+i=41  dims=[20 460 460] 
+our: difference=0.000957  auc=0.776355
+i=42  dims=[20 470 470] 
+our: difference=0.000982  auc=0.784117
+i=43  dims=[20 480 480] 
+our: difference=0.000989  auc=0.796917
+i=44  dims=[20 490 490] 
+our: difference=0.000996  auc=0.786436
+i=45  dims=[20 500 500] 
+our: difference=0.000973  auc=0.753060
+
+ave_our =
+
+    0.7727
+    0.7626
+    0.7639
+    0.7685
+    0.7685
+    0.7717
+    0.7621
+    0.7646
+    0.7639
+    0.7592
+    0.7551
+    0.7555
+    0.7588
+    0.7558
+    0.7555
+    0.7551
+    0.7558
+    0.7574
+    0.7585
+    0.7576
+    0.7557
+    0.7566
+    0.7572
+    0.7574
+    0.7576
+    0.7564
+    0.7575
+    0.7592
+    0.7608
+    0.7593
+    0.7600
+    0.7596
+    0.7601
+    0.7605
+    0.7611
+    0.7608
+    0.7613
+    0.7608
+    0.7606
+    0.7598
+    0.7602
+    0.7607
+    0.7616
+    0.7622
+    0.7620
+
+ omegaT_90_5 
+NNCP: iterations = 409   difference=0.000010  time=30.718485
+our: difference=0.001000  auc=0.773896
+i=1  dims=[20 60 60] 
+our: difference=0.000898  auc=0.773344
+i=2  dims=[20 70 70] 
+our: difference=0.000961  auc=0.739243
+i=3  dims=[20 80 80] 
+our: difference=0.000927  auc=0.777580
+i=4  dims=[20 90 90] 
+our: difference=0.000949  auc=0.777213
+i=5  dims=[20 100 100] 
+our: difference=0.000955  auc=0.774199
+i=6  dims=[20 110 110] 
+our: difference=0.000962  auc=0.790838
+i=7  dims=[20 120 120] 
+our: difference=0.000952  auc=0.721795
+i=8  dims=[20 130 130] 
+our: difference=0.000952  auc=0.759176
+i=9  dims=[20 140 140] 
+our: difference=0.000930  auc=0.747822
+i=10  dims=[20 150 150] 
+our: difference=0.000946  auc=0.740172
+i=11  dims=[20 160 160] 
+our: difference=0.000935  auc=0.717394
+i=12  dims=[20 170 170] 
+our: difference=0.000987  auc=0.756644
+i=13  dims=[20 180 180] 
+our: difference=0.000999  auc=0.808464
+i=14  dims=[20 190 190] 
+our: difference=0.000934  auc=0.724750
+i=15  dims=[20 200 200] 
+our: difference=0.000923  auc=0.749300
+i=16  dims=[20 210 210] 
+our: difference=0.000952  auc=0.750206
+i=17  dims=[20 220 220] 
+our: difference=0.000921  auc=0.773675
+i=18  dims=[20 230 230] 
+our: difference=0.000971  auc=0.798501
+i=19  dims=[20 240 240] 
+our: difference=0.000990  auc=0.793759
+i=20  dims=[20 250 250] 
+our: difference=0.000952  auc=0.742188
+i=21  dims=[20 260 260] 
+our: difference=0.000933  auc=0.710974
+i=22  dims=[20 270 270] 
+our: difference=0.000982  auc=0.785239
+i=23  dims=[20 280 280] 
+our: difference=0.000960  auc=0.784080
+i=24  dims=[20 290 290] 
+our: difference=0.000967  auc=0.748762
+i=25  dims=[20 300 300] 
+our: difference=0.000961  auc=0.774243
+i=26  dims=[20 310 310] 
+our: difference=0.000954  auc=0.732031
+i=27  dims=[20 320 320] 
+our: difference=0.000953  auc=0.782740
+i=28  dims=[20 330 330] 
+our: difference=0.000962  auc=0.816242
+i=29  dims=[20 340 340] 
+our: difference=0.000944  auc=0.806732
+i=30  dims=[20 350 350] 
+our: difference=0.000979  auc=0.715285
+i=31  dims=[20 360 360] 
+our: difference=0.000941  auc=0.790186
+i=32  dims=[20 370 370] 
+our: difference=0.000969  auc=0.741595
+i=33  dims=[20 380 380] 
+our: difference=0.000997  auc=0.778384
+i=34  dims=[20 390 390] 
+our: difference=0.000986  auc=0.766626
+i=35  dims=[20 400 400] 
+our: difference=0.000973  auc=0.781566
+i=36  dims=[20 410 410] 
+our: difference=0.000972  auc=0.746056
+i=37  dims=[20 420 420] 
+our: difference=0.000996  auc=0.790224
+i=38  dims=[20 430 430] 
+our: difference=0.000992  auc=0.758827
+i=39  dims=[20 440 440] 
+our: difference=0.000963  auc=0.745755
+i=40  dims=[20 450 450] 
+our: difference=0.000986  auc=0.740721
+i=41  dims=[20 460 460] 
+our: difference=0.000996  auc=0.780527
+i=42  dims=[20 470 470] 
+our: difference=0.000990  auc=0.788356
+i=43  dims=[20 480 480] 
+our: difference=0.000962  auc=0.801776
+i=44  dims=[20 490 490] 
+our: difference=0.000960  auc=0.794556
+i=45  dims=[20 500 500] 
+our: difference=0.000982  auc=0.755842
+
+ave_our =
+
+    0.7733
+    0.7563
+    0.7634
+    0.7668
+    0.7683
+    0.7721
+    0.7649
+    0.7642
+    0.7624
+    0.7601
+    0.7563
+    0.7563
+    0.7603
+    0.7578
+    0.7572
+    0.7568
+    0.7578
+    0.7600
+    0.7618
+    0.7608
+    0.7584
+    0.7597
+    0.7607
+    0.7602
+    0.7608
+    0.7597
+    0.7605
+    0.7625
+    0.7640
+    0.7624
+    0.7633
+    0.7626
+    0.7631
+    0.7632
+    0.7637
+    0.7633
+    0.7640
+    0.7638
+    0.7634
+    0.7628
+    0.7632
+    0.7638
+    0.7647
+    0.7654
+    0.7652
+
+init-tncp , R=10 , V=10.000000 , omegaT_90_1 
+NNCP: iterations = 407   difference=0.000010  time=28.249212
+our: difference=0.000985  auc=0.776700
+i=1  dims=[20 60 60] 
+our: difference=0.000985  auc=0.773472
+i=2  dims=[20 70 70] 
+our: difference=0.000964  auc=0.735483
+i=3  dims=[20 80 80] 
+our: difference=0.000827  auc=0.767099
+i=4  dims=[20 90 90] 
+our: difference=0.000994  auc=0.768168
+i=5  dims=[20 100 100] 
+our: difference=0.000935  auc=0.750759
+i=6  dims=[20 110 110] 
+our: difference=0.000973  auc=0.755739
+i=7  dims=[20 120 120] 
+our: difference=0.001000  auc=0.693813
+i=8  dims=[20 130 130] 
+our: difference=0.000940  auc=0.753427
+i=9  dims=[20 140 140] 
+our: difference=0.000900  auc=0.734323
+i=10  dims=[20 150 150] 
+our: difference=0.000952  auc=0.709956
+i=11  dims=[20 160 160] 
+our: difference=0.000937  auc=0.703489
+i=12  dims=[20 170 170] 
+our: difference=0.000986  auc=0.758299
+i=13  dims=[20 180 180] 
+our: difference=0.000908  auc=0.778577
+i=14  dims=[20 190 190] 
+our: difference=0.000912  auc=0.710027
+i=15  dims=[20 200 200] 
+our: difference=0.000906  auc=0.728614
+i=16  dims=[20 210 210] 
+our: difference=0.000959  auc=0.730446
+i=17  dims=[20 220 220] 
+our: difference=0.000979  auc=0.741888
+i=18  dims=[20 230 230] 
+our: difference=0.000966  auc=0.784313
+i=19  dims=[20 240 240] 
+our: difference=0.000978  auc=0.762424
+i=20  dims=[20 250 250] 
+our: difference=0.000953  auc=0.714080
+i=21  dims=[20 260 260] 
+our: difference=0.000958  auc=0.708283
+i=22  dims=[20 270 270] 
+our: difference=0.000995  auc=0.766316
+i=23  dims=[20 280 280] 
+our: difference=0.000928  auc=0.758141
+i=24  dims=[20 290 290] 
+our: difference=0.000940  auc=0.742592
+i=25  dims=[20 300 300] 
+our: difference=0.000927  auc=0.762278
+i=26  dims=[20 310 310] 
+our: difference=0.000980  auc=0.704003
+i=27  dims=[20 320 320] 
+our: difference=0.000947  auc=0.773462
+i=28  dims=[20 330 330] 
+our: difference=0.000996  auc=0.802806
+i=29  dims=[20 340 340] 
+our: difference=0.000931  auc=0.792979
+i=30  dims=[20 350 350] 
+our: difference=0.000966  auc=0.699913
+i=31  dims=[20 360 360] 
+our: difference=0.000945  auc=0.775234
+i=32  dims=[20 370 370] 
+our: difference=0.000988  auc=0.731420
+i=33  dims=[20 380 380] 
+our: difference=0.000993  auc=0.761000
+i=34  dims=[20 390 390] 
+our: difference=0.000981  auc=0.751645
+i=35  dims=[20 400 400] 
+our: difference=0.000997  auc=0.779768
+i=36  dims=[20 410 410] 
+our: difference=0.000940  auc=0.730891
+i=37  dims=[20 420 420] 
+our: difference=0.000954  auc=0.776923
+i=38  dims=[20 430 430] 
+our: difference=0.000961  auc=0.733233
+i=39  dims=[20 440 440] 
+our: difference=0.000944  auc=0.734503
+i=40  dims=[20 450 450] 
+our: difference=0.000946  auc=0.717838
+i=41  dims=[20 460 460] 
+our: difference=0.000947  auc=0.762177
+i=42  dims=[20 470 470] 
+our: difference=0.000958  auc=0.772421
+i=43  dims=[20 480 480] 
+our: difference=0.000956  auc=0.788348
+i=44  dims=[20 490 490] 
+our: difference=0.000994  auc=0.780797
+i=45  dims=[20 500 500] 
+our: difference=0.000979  auc=0.741925
+
+ave_our =
+
+    0.7735
+    0.7545
+    0.7587
+    0.7611
+    0.7590
+    0.7585
+    0.7492
+    0.7497
+    0.7480
+    0.7442
+    0.7405
+    0.7420
+    0.7448
+    0.7423
+    0.7414
+    0.7407
+    0.7408
+    0.7432
+    0.7442
+    0.7427
+    0.7411
+    0.7422
+    0.7429
+    0.7429
+    0.7437
+    0.7422
+    0.7433
+    0.7454
+    0.7471
+    0.7455
+    0.7465
+    0.7460
+    0.7464
+    0.7466
+    0.7475
+    0.7471
+    0.7479
+    0.7475
+    0.7472
+    0.7464
+    0.7468
+    0.7474
+    0.7484
+    0.7491
+    0.7490
+
+ omegaT_90_2 
+NNCP: iterations = 394   difference=0.000010  time=27.145136
+our: difference=0.000949  auc=0.764437
+i=1  dims=[20 60 60] 
+our: difference=0.000989  auc=0.779187
+i=2  dims=[20 70 70] 
+our: difference=0.000938  auc=0.754886
+i=3  dims=[20 80 80] 
+our: difference=0.000910  auc=0.775390
+i=4  dims=[20 90 90] 
+our: difference=0.000962  auc=0.774920
+i=5  dims=[20 100 100] 
+our: difference=0.000933  auc=0.758291
+i=6  dims=[20 110 110] 
+our: difference=0.000987  auc=0.785760
+i=7  dims=[20 120 120] 
+our: difference=0.000969  auc=0.705902
+i=8  dims=[20 130 130] 
+our: difference=0.000904  auc=0.754171
+i=9  dims=[20 140 140] 
+our: difference=0.000925  auc=0.745440
+i=10  dims=[20 150 150] 
+our: difference=0.000999  auc=0.711373
+i=11  dims=[20 160 160] 
+our: difference=0.000939  auc=0.716898
+i=12  dims=[20 170 170] 
+our: difference=0.000961  auc=0.762117
+i=13  dims=[20 180 180] 
+our: difference=0.000969  auc=0.796550
+i=14  dims=[20 190 190] 
+our: difference=0.000959  auc=0.713232
+i=15  dims=[20 200 200] 
+our: difference=0.000934  auc=0.744622
+i=16  dims=[20 210 210] 

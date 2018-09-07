@@ -1,0 +1,5 @@
+ Movielen Rank 5 
+ omegaT_50_1 
+NNCP: iterations = 375   difference=0.000010  time=2.448249
+if system_dependent('IsDebugMode')==1, dbquit; end
+mis50rank10
