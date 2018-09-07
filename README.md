@@ -13,24 +13,41 @@ There are 5 dataset:
 * DBLP, a binary three-mode (author, conf erence, keyword) tensor ,bibliography relationships, of size 3K × 150 × 30K
 * Kaggle,contest for click- through-rate (CTR) prediction in online advertising, sponsored by Avazu Inc，build a four-mode binary tensor (banner_pos,site_id,app_id,device_model), of size 7×2854×4114×6061
 
+Main function:
 
+POST.m
 
 ### 1. Evaluation on Dynamic Tensor Increments. ###
 
 Twitter Topic and MovieLens followed a similar procedure to MAST to conduct the experiments. 
 Randomly chose {50%, 80%, 90%} entries of the entire tensor as missing for each dataset.
-The dimension of embedding vectors(Rank), from {3, 5, 8, 10}
+The dimension of embedding vectors(Rank), from {3, 5, 8, 10}. In incremantial case, the batch size is tranning data in this increment.
 
+Example:
 
-Twitter Topic: RUN "mis90rank10.m", you can change Rank, say "R" and tune "v", the initial variance of the embeddings.
+* Twitter Topic: RUN "mis90rank10.m", you can set Rank, say "R" and tune "v", the initial variance of the embeddings.
 For random missing data, for example, for mising 90%, we have missing 90% with five mat file, say "omegaT_90_i.mat"
 
-MovieLens: same as Twitter Topic.
+* MovieLens: same as Twitter Topic.
 
 ### 2. Evaluation on Streaming Tensor Entries in Arbitrary Orders ###
 
+Acc(continuous) and DBLP(binary) are examined POST when tensor entries stream in arbitrary orders. 
+
+Example:
+
+* Acc(continuous): RUN ""test_Acc_batch_1.m" ,  you can set Rank, say "R" and tune "v" ,the initial variance of the embeddings. In this case, you can set batch size, say "batch_size"
+
+* DBLP(binary): same as Acc
+
+
 
 ### 3. Uncertainty Investigation ###
+
+Example:
+
+*Kaggle
+
 
 
 
