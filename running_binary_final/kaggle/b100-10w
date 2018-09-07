@@ -1,0 +1,31 @@
+run 1, batch size 100 
+1 batches processed!
+run 1, auc = 0.71818
+{错误使用 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+由于 './output' 不存在，无法创建 'time-1-R-3-V-1-U-batch-100.mat'。
+
+出错 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('test_kaggle_b100', '/Users/yishuaidu/Dropbox/Streaming Tensor Factorization/running_binary_final/kaggle/test_kaggle_b100.m', 78)" style="font-weight:bold">test_kaggle_b100</a> (<a href="matlab: opentoline('/Users/yishuaidu/Dropbox/Streaming Tensor Factorization/running_binary_final/kaggle/test_kaggle_b100.m',78,0)">line 78</a>)
+    save(fn_U, 'post_u'); %%%%%%%%
+} 
+test_kaggle_b100
+run 1, batch size 100 
+1 batches processed!
+run 1, auc = 0.71818
+时间已过 157.548433 秒。
+run 2, batch size 100 
+1 batches processed!
+run 2, auc = 0.708548
+时间已过 150.388899 秒。
+run 3, batch size 100 
+1 batches processed!
+run 3, auc = 0.733871
+时间已过 156.224116 秒。
+run 4, batch size 100 
+1 batches processed!
+run 4, auc = 0.732103
+时间已过 160.647734 秒。
+run 5, batch size 100 
+1 batches processed!
+run 5, auc = 0.726728
+时间已过 151.855079 秒。
+5 Runs: average auc = 0.723886, std = 0.00470694

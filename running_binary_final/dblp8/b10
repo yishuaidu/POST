@@ -1,0 +1,75 @@
+run 1, batch size 1 ,R = 
+run 8, batch size 1 batches processed!
+1001 batches processed!
+2001 batches processed!
+if system_dependent('IsDebugMode')==1, dbquit; end
+test_dblp_b1_zsd
+run 1, batch size 1 ,R = 
+run 8, batch size if system_dependent('IsDebugMode')==1, dbquit; end
+test_dblp_b1_zsd
+run 1, batch size 1 ,R = 8
+1 batches processed!
+1001 batches processed!
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('POST', '/Users/shandianzhe/Dropbox/Research/Streaming Tensor Factorization/running_binary_final/dblp8/POST.m', 55)" style="font-weight:bold">POST</a> (<a href="matlab: opentoline('/Users/shandianzhe/Dropbox/Research/Streaming Tensor Factorization/running_binary_final/dblp8/POST.m',55,0)">line 55</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('test_dblp_b1_zsd', '/Users/shandianzhe/Dropbox/Research/Streaming Tensor Factorization/running_binary_final/dblp8/test_dblp_b1_zsd.m', 43)" style="font-weight:bold">test_dblp_b1_zsd</a> (<a href="matlab: opentoline('/Users/shandianzhe/Dropbox/Research/Streaming Tensor Factorization/running_binary_final/dblp8/test_dblp_b1_zsd.m',43,0)">line 43</a>)
+        post_u = POST(post_u,batch_data,opt);
+} 
+dblp_auc
+dblp_auc
+dblp_auc
+dblp_auc
+dblp_auc
+dblp_time
+
+POST =
+
+  774.9687
+  392.4320
+  365.2225
+  317.4978
+  317.5939
+  270.3342
+  278.5196
+  406.7729
+
+dblp_time
+
+POST =
+
+   1.0e+03 *
+
+    2.2644
+    0.8716
+    0.7072
+    0.5321
+    0.5100
+    0.4488
+    0.4542
+    0.7959
+
+dblp_time
+
+POST =
+
+   1.0e+03 *
+
+    4.3672
+    1.2893
+    0.9794
+    0.6346
+    0.6009
+    0.5214
+    0.5547
+    1.0225
+
+batch1-zsd
+{Attempt to execute SCRIPT batch1 as a function:
+/Users/shandianzhe/Dropbox/Research/Streaming Tensor Factorization/running_real_final/acc8/batch1.m
+} 
+batch1-zsd
+{Attempt to execute SCRIPT batch1 as a function:
+/Users/shandianzhe/Dropbox/Research/Streaming Tensor Factorization/running_real_final/acc8/batch1.m
+} 
+batch1_zsd

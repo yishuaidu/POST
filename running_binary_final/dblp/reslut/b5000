@@ -1,0 +1,21 @@
+run 1, batch size 5000 
+1 batches processed!
+run 1, auc = 0.78984
+Elapsed time is 276.012610 seconds.
+run 2, batch size 5000 
+1 batches processed!
+run 2, auc = 0.822585
+Elapsed time is 283.226347 seconds.
+run 3, batch size 5000 
+1 batches processed!
+run 3, auc = 0.796815
+Elapsed time is 278.819764 seconds.
+run 4, batch size 5000 
+1 batches processed!
+run 4, auc = 0.805627
+Elapsed time is 281.819221 seconds.
+run 5, batch size 5000 
+1 batches processed!
+run 5, auc = 0.788796
+Elapsed time is 272.719977 seconds.
+5 Runs: average auc = 0.800733, std = 0.0062368

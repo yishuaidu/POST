@@ -1,0 +1,46 @@
+
+                                      < M A T L A B (R) >
+                            Copyright 1984-2016 The MathWorks, Inc.
+                             R2016b (9.1.0.441655) 64-bit (glnxa64)
+                                       September 7, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+run 1, batch size 100 
+1 batches processed!
+100001 batches processed!
+200001 batches processed!
+300001 batches processed!
+run 1, auc = 0.741998
+Elapsed time is 321.259265 seconds.
+run 2, batch size 100 
+1 batches processed!
+100001 batches processed!
+200001 batches processed!
+300001 batches processed!
+run 2, auc = 0.753276
+Elapsed time is 320.633823 seconds.
+run 3, batch size 100 
+1 batches processed!
+100001 batches processed!
+200001 batches processed!
+300001 batches processed!
+run 3, auc = 0.749495
+Elapsed time is 322.883172 seconds.
+run 4, batch size 100 
+1 batches processed!
+100001 batches processed!
+200001 batches processed!
+300001 batches processed!
+run 4, auc = 0.743456
+Elapsed time is 316.430922 seconds.
+run 5, batch size 100 
+1 batches processed!
+100001 batches processed!
+200001 batches processed!
+300001 batches processed!
+run 5, auc = 0.739451
+Elapsed time is 306.762308 seconds.
+5 Runs: average auc = 0.745535, std = 0.00254419
