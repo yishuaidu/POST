@@ -1,6 +1,0 @@
-run 1, batch size 10000 
-if system_dependent('IsDebugMode')==1, dbquit; end
-compared
- omegaT_90_1 
-NNCP: iterations = 439   difference=0.000010  time=2.310349
-test_dblp_b10000

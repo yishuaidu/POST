@@ -1,0 +1,131 @@
+run 1, batch size 5 , R= 8
+1 batches processed!
+50001 batches processed!
+100001 batches processed!
+150001 batches processed!
+200001 batches processed!
+250001 batches processed!
+300001 batches processed!
+350001 batches processed!
+400001 batches processed!
+450001 batches processed!
+500001 batches processed!
+550001 batches processed!
+600001 batches processed!
+650001 batches processed!
+700001 batches processed!
+750001 batches processed!
+800001 batches processed!
+850001 batches processed!
+900001 batches processed!
+950001 batches processed!
+1000001 batches processed!
+1050001 batches processed!
+1100001 batches processed!
+run 1, mse = 0.157136
+Elapsed time is 4319.096140 seconds.
+run 2, batch size 5 , R= 8
+1 batches processed!
+50001 batches processed!
+100001 batches processed!
+150001 batches processed!
+200001 batches processed!
+250001 batches processed!
+300001 batches processed!
+350001 batches processed!
+400001 batches processed!
+450001 batches processed!
+500001 batches processed!
+550001 batches processed!
+600001 batches processed!
+650001 batches processed!
+700001 batches processed!
+750001 batches processed!
+800001 batches processed!
+850001 batches processed!
+900001 batches processed!
+950001 batches processed!
+1000001 batches processed!
+1050001 batches processed!
+1100001 batches processed!
+run 2, mse = 0.152194
+Elapsed time is 4251.030005 seconds.
+run 3, batch size 5 , R= 8
+1 batches processed!
+50001 batches processed!
+100001 batches processed!
+150001 batches processed!
+200001 batches processed!
+250001 batches processed!
+300001 batches processed!
+350001 batches processed!
+400001 batches processed!
+450001 batches processed!
+500001 batches processed!
+550001 batches processed!
+600001 batches processed!
+650001 batches processed!
+700001 batches processed!
+750001 batches processed!
+800001 batches processed!
+850001 batches processed!
+900001 batches processed!
+950001 batches processed!
+1000001 batches processed!
+1050001 batches processed!
+1100001 batches processed!
+run 3, mse = 0.157782
+Elapsed time is 3420.226619 seconds.
+run 4, batch size 5 , R= 8
+1 batches processed!
+50001 batches processed!
+100001 batches processed!
+150001 batches processed!
+200001 batches processed!
+250001 batches processed!
+300001 batches processed!
+350001 batches processed!
+400001 batches processed!
+450001 batches processed!
+500001 batches processed!
+550001 batches processed!
+600001 batches processed!
+650001 batches processed!
+700001 batches processed!
+750001 batches processed!
+800001 batches processed!
+850001 batches processed!
+900001 batches processed!
+950001 batches processed!
+1000001 batches processed!
+1050001 batches processed!
+1100001 batches processed!
+run 4, mse = 0.162273
+Elapsed time is 2850.554029 seconds.
+run 5, batch size 5 , R= 8
+1 batches processed!
+50001 batches processed!
+100001 batches processed!
+150001 batches processed!
+200001 batches processed!
+250001 batches processed!
+300001 batches processed!
+350001 batches processed!
+400001 batches processed!
+450001 batches processed!
+500001 batches processed!
+550001 batches processed!
+600001 batches processed!
+650001 batches processed!
+700001 batches processed!
+750001 batches processed!
+800001 batches processed!
+850001 batches processed!
+900001 batches processed!
+950001 batches processed!
+1000001 batches processed!
+1050001 batches processed!
+1100001 batches processed!
+run 5, mse = 0.157914
+Elapsed time is 2786.023636 seconds.
+5 Runs: average mse = 0.15746, std = 0.00160168

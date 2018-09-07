@@ -1,0 +1,26 @@
+run 1, batch size 100 , R= 8
+1 batches processed!
+1000001 batches processed!
+run 1, mse = 0.156292
+Elapsed time is 1496.209926 seconds.
+run 2, batch size 100 , R= 8
+1 batches processed!
+1000001 batches processed!
+run 2, mse = 0.152047
+Elapsed time is 1514.873861 seconds.
+run 3, batch size 100 , R= 8
+1 batches processed!
+1000001 batches processed!
+run 3, mse = 0.15791
+Elapsed time is 1538.235406 seconds.
+run 4, batch size 100 , R= 8
+1 batches processed!
+1000001 batches processed!
+run 4, mse = 0.16225
+Elapsed time is 1522.953882 seconds.
+run 5, batch size 100 , R= 8
+1 batches processed!
+1000001 batches processed!
+run 5, mse = 0.157594
+Elapsed time is 1517.879592 seconds.
+5 Runs: average mse = 0.157219, std = 0.0016361

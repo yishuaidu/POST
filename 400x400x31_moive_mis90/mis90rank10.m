@@ -5,6 +5,7 @@ addpath('NNCP_code');
 rng('default');
 
 diary mis90rank10
+%running 5 times
 for m=1:5
 
 nvec = [400,400,31];
@@ -111,7 +112,7 @@ for i=1:ii %1:49
 
     %%
     all_data = a(1:newdims(1),1:newdims(2),1:newdims(3)); %% real data
-    X=c(1:newdims(1),1:newdims(2),1:newdims(3)); % °üº¬missing data -1
+    X=c(1:newdims(1),1:newdims(2),1:newdims(3)); % included missing data -1
 
     cut = X;
     cut(1:olddims(1), 1:olddims(2), 1:olddims(3)) = -2;
