@@ -1,4 +1,0 @@
-run 1, batch size 1 , R = 8 
-1 batches processed!
-1001 batches processed!
-if system_dependent('IsDebugMode')==1, dbquit; end
