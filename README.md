@@ -4,23 +4,22 @@
 ## Requirement
 * elementary programming knowledge
 * [**Matlab**](https://www.mathworks.com/products/matlab.html) as the software to run POST code
-## How to run
+
+## How to run POST
 1. Download POST repository
 2. Open Matlab, run the "main.m" file in each subfolder of POST/data.
 
 
 
-
-
-
-## Datasets Intro
+## Dataset Intro
 There are 5 datasets:
-* MovieLens, a binary three-mode (user, movie, week) tensor of size 400 ¡Á 400 ¡Á 31 (movielen/movie_400x400x31.mat)
-* Twitter Topic, a binary three-mode (user, expert, topic) tensor, of size 500¡Á500¡Á20 (twitter/data.mat)
-* ACC, a continuous tensor which records the three-mode interactions (user, action, resource), of size is 3K¡Á150¡Á30K (acc/tensor-data-large/acc.mat)
-* DBLP, a binary three-mode (author, conference, keyword) tensor, bibliography relationships, of size 3K¡Á150¡Á30K (dblp/tensor-data-large/dblp.mat)
+* [MovieLens](https://github.com/yishuaidu/POST/blob/master/data/MovieLen/movie_400x400x31.mat), a binary three-mode (user, movie, week) tensor of size 400¡Á400¡Á31
+* [Twitter Topic](https://github.com/yishuaidu/POST/blob/master/data/Twitter/data.mat), a binary three-mode (user, expert, topic) tensor, of size 500¡Á500¡Á20
+* [ACC](https://github.com/yishuaidu/POST/blob/master/data/ACC/tensor-data-large/acc.mat), a continuous tensor which records the three-mode interactions (user, action, resource), of size is 3K¡Á150¡Á30K
+* [DBLP](https://github.com/yishuaidu/POST/tree/master/data/DBLP/tensor-data-large), a binary three-mode (author, conference, keyword) tensor, bibliography relationships, of size 3K¡Á150¡Á30K
 * [Kaggle](https://www.kaggle.com/c/avazu-ctr-prediction/data), a contest for click-through-rate (CTR) prediction in online advertising, sponsored by Avazu Inc£¬build a four-mode binary tensor (banner_pos,site_id,app_id,device_model), of size 7¡Á2854¡Á4114¡Á6061
 
+## Note
 **1. Evaluation on Dynamic Tensor Increments**
 
 Twitter Topic and MovieLens followed a similar procedure to MAST to conduct the experiments. 
@@ -50,7 +49,7 @@ Example:
 
 Example:
 
-*Kaggle
+* Kaggle
 
 
 
