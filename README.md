@@ -2,7 +2,7 @@
 [Yishuai Du](https://www.linkedin.com/in/yishuai-du-583a17b5/) | [Yimin Zheng](http://www.vincheng.me) | [Kuang-chih Lee](https://scholar.google.com/citations?user=r9JOIloAAAAJ&hl=en) | [Shandian Zhe](http://www.cs.utah.edu/~zhe/)
 
 ## Requirement
-* elementary programming knowledge
+* MIT Licence
 * [**Matlab**](https://www.mathworks.com/products/matlab.html) as the software to run POST code
 
 ## How to run POST
