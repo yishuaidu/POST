@@ -1,4 +1,6 @@
 ### Probabilistic Streaming Tensor Decomposition @ ICDM'2018
+https://ieeexplore.ieee.org/document/8594834
+
 [Yishuai Du](https://www.linkedin.com/in/yishuai-du-583a17b5/) | [Yimin Zheng](http://www.vincheng.me) | [Kuang-chih Lee](https://scholar.google.com/citations?user=r9JOIloAAAAJ&hl=en) | [Shandian Zhe](http://www.cs.utah.edu/~zhe/)
 
 ## Requirement
